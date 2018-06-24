@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/drv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/environment.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/pages/AdvancedSearchPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/pages/AllFitersPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/pages/MainPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/pages/MarketPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/steps/AdvancedSearchSteps.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/steps/AllFiltersSteps.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/steps/BaseSteps.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/steps/MainSteps.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/steps/MarketSteps.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/steps/ScenarioSteps.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/steps/TVSteps.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/util/AllureReporter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/util/TestProperties.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/CucumberRunner.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/ЯндексМаркетНаушники.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/ЯндексМаркетТВ.feature" charset="UTF-8" />
+  </component>
+</project>
